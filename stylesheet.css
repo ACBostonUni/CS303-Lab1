@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.main_container{
+    text-align: center;
+}
+.navbar {
+    background-color: #D2E7D6; /* Creamsicle Orange */
+    padding: 10px;
+    height: 60%;
+}
+
+.navbar ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.navbar li{
+    display: inline-block;
+    padding: 6%;
+    background-color: #E2D4F0;
+
+}
+
+nav a{
+    text-decoration: none;
+    color: white;
+    font-family: "Arial Black", sans-serif;
+    text-decoration: ;
+
+}
+
+#ghost_pumpkin {
+    width: 40%;
+    height: 40%
+}
+
+header {
+    text-align: center;
+    padding: 2% 0 2% 0;
+    background-color: #FFD1A9;
+    font-family: "Arial Black", sans-serif;
+    color: #2B2831;
+}
