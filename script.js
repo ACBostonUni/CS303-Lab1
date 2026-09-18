@@ -1,5 +1,5 @@
 
 function makeScary(){
 
-    document.getElementById("").innerHTML = `<h2>EXTRA SCARY</h2>`
+    document.getElementById("scaryText").innerHTML = `<h2>EXTRA SCARY</h2>`
 }
